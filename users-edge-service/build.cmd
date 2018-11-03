@@ -1,0 +1,1 @@
+docker build -t users-edge-service:latest .

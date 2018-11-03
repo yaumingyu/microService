@@ -1,0 +1,10 @@
+新建文本文档.txt
+.idea/
+api-gateway-zuul-service/target/
+course-dubbo-service/target/
+course-dubbo-service-api/target/
+course-edge-service/target/
+message-service-api/target/
+users-edge-service/target/
+users-thrift-service/target/
+users-thrift-service-api/target/

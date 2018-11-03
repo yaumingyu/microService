@@ -1,0 +1,3 @@
+FROM python:3.6
+MAINTAINER jayden XXXX@qq.com
+RUN pip install thrift
